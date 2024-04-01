@@ -1,0 +1,31 @@
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\appsettings.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\st10454732 Thato Omphile Nameng.staticwebassets.runtime.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\st10454732 Thato Omphile Nameng.exe
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\st10454732 Thato Omphile Nameng.deps.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\st10454732 Thato Omphile Nameng.runtimeconfig.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\st10454732 Thato Omphile Nameng.dll
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\bin\Debug\net6.0\st10454732 Thato Omphile Nameng.pdb
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.csproj.AssemblyReference.cache
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.AssemblyInfoInputs.cache
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.AssemblyInfo.cs
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.csproj.CoreCompileInputs.cache
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.RazorAssemblyInfo.cache
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.RazorAssemblyInfo.cs
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets\msbuild.st10454732 Thato Omphile Nameng.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets\msbuild.build.st10454732 Thato Omphile Nameng.props
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.st10454732 Thato Omphile Nameng.props
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.st10454732 Thato Omphile Nameng.props
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\scopedcss\bundle\st10454732 Thato Omphile Nameng.styles.css
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\scopedcss\projectbundle\st10454732 Thato Omphile Nameng.bundle.scp.css
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.dll
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\refint\st10454732 Thato Omphile Nameng.dll
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.pdb
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\st10454732 Thato Omphile Nameng.genruntimeconfig.cache
+C:\Users\thato\source\repos\IceTask\st10454732 Thato Omphile Nameng\st10454732 Thato Omphile Nameng\obj\Debug\net6.0\ref\st10454732 Thato Omphile Nameng.dll

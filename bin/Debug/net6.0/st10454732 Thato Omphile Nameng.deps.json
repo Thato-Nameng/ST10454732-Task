@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "st10454732 Thato Omphile Nameng/1.0.0": {
+        "runtime": {
+          "st10454732 Thato Omphile Nameng.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "st10454732 Thato Omphile Nameng/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
