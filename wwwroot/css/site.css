@@ -18,41 +18,39 @@ body {
 }
 
 .craftwork-image {
-    height: 300px; /* Adjust as needed */
-    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
+    height: 300px;
+    object-fit: cover; 
 }
 
-/* Custom colors */
 .bg-dark-blue {
-    background-color: #2E3F50; /* Dark Blue */
+    background-color: #2E3F50; 
 }
 
 .text-ocean-blue {
-    color: #0077A7; /* Ocean Blue */
+    color: #0077A7; 
 }
 
     .text-ocean-blue:hover,
     .text-ocean-blue:focus {
-        color: #00557E; /* Darker shade of Ocean Blue */
+        color: #00557E; 
     }
 
 
 
 .dark-mode {
-    background-color: #1a1a1a; /* Dark background color */
-    color: #ffffff; /* Light text color */
+    background-color: #1a1a1a; 
+    color: #ffffff; 
 }
 
-/* Colorful styles */
 .colorful-section {
-    background-color: #ff6347; /* Red background color */
-    color: #ffffff; /* Light text color */
+    background-color: #ff6347; 
+    color: #ffffff;
 }
 
 .colorful-heading {
-    color: #4682b4; /* Blue text color */
+    color: #4682b4;
 }
 
 .colorful-link {
-    color: #32cd32; /* Green text color */
+    color: #32cd32;
 }
